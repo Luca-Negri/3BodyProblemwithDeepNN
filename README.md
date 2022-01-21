@@ -15,5 +15,11 @@ predict a certain outcome, it could be possible to cut computational times by se
 capable of correctly modelling the differential equations that govern gravitational relativistic interactions.
 
 ![Confusion matrix](net_out.png)
+
+All of the code is available in the [Main notebook](Computaional_astrophysics_project.ipynb), where the machine learnin framework chosen is `pytorch`.
+
+The training data is not yet available but the network parameters are in this repository.
+
+
 ![Topo.ogy Vs training](topology_vs_training.png)
 
