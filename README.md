@@ -6,8 +6,8 @@ The aim of the project is to train a fully connected deep neural network on a se
 performed with the code ARWV and to predict the correct outcome.
 
 The 3 body problem has puzzled for centuries physicists and matematichians alike. The chaotic nature of these systems has made it difficult 
-to predict the trajectories of objects subject to each others grabitational pulls starting from arbitrary initial conditions.
-These comptutation have required considerable resources from the era of Newton all the way to the present day, 
+to predict the trajectories of objects subject to each others gravitational pulls starting from arbitrary initial conditions.
+These caò+lculations have required considerable resources from the era of Newton all the way to the present day, 
 where N-body simulations require intensive investments in time and energy to get accurate results.
 
 This is where the possibility to apply machine learning principles comes in. Since Neural Networks require a finite and predictable amount of linear operations to 
